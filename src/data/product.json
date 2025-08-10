@@ -1,0 +1,27 @@
+{
+    "title": "Loose Fit Hoodie",
+    "price": 24.99,
+    "rating": 4.5,
+    "reviews": 50,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "images": [
+      "https://i.pinimg.com/736x/66/49/35/6649357d654042687176011d97b7bcc0.jpg",
+      "https://i.pinimg.com/736x/da/10/47/da10474f751797f66f15841f7f2a31f8.jpg",
+      "https://i.pinimg.com/736x/da/10/47/da10474f751797f66f15841f7f2a31f8.jpg",
+      "https://i.pinimg.com/736x/da/10/47/da10474f751797f66f15841f7f2a31f8.jpg"
+    ],
+    "description": "Loose-fit sweatshirt hoodie in medium weight cotton-blend fabric with a generous, but not oversized silhouette. Jersey-lined, drawstring hood, dropped shoulders, long sleeves, and a kangaroo pocket. Wide ribbing at cuffs and hem. Soft, brushed inside.",
+    "shipping": {
+      "discount": "Disc 50%",
+      "package": "Regular Package",
+      "deliveryTime": "3-4 Working Days",
+      "arrival": "10 - 12 October 2024"
+    },
+    "similar": [
+      { "title": "Polo with Contrast Trims", "price": 212, "oldPrice": 242, "discount": 20, "rating": 4.0, "img": "https://i.pinimg.com/1200x/f6/36/38/f63638f0706c8e2372be94c68648c2a1.jpg" },
+      { "title": "Gradient Graphic T-shirt", "price": 145, "rating": 3.5, "img":"https://i.pinimg.com/736x/2e/2b/4f/2e2b4fb00df2c243ddaac952be11e8ac.jpg" },
+      { "title": "Polo with Tipping Details", "price": 180, "rating": 4.5, "img": "https://i.pinimg.com/1200x/99/08/28/990828c802c6b904e53a2f1263b945f1.jpg" },
+      { "title": "Black Hoodie", "price": 120, "rating": 5.0, "discount": 30, "img": "https://i.pinimg.com/1200x/58/e6/8d/58e68d17f737d5648e2a36c17e924105.jpg" }
+    ]
+  }
+  
